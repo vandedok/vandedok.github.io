@@ -2,50 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Anton&#39;s Site</title>
-    <link>http://localhost:38719/</link>
+    <link>https://vandedok.github.io/</link>
     <description>Recent content on Anton&#39;s Site</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Apr 2025 14:18:14 +0200</lastBuildDate>
-    <atom:link href="http://localhost:38719/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My first post</title>
-      <link>http://localhost:38719/blog/my-first-post/</link>
-      <pubDate>Sat, 26 Apr 2025 14:18:14 +0200</pubDate>
-      <guid>http://localhost:38719/blog/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>RL</title>
-      <link>http://localhost:38719/courses_library/rl/</link>
-      <pubDate>Sat, 26 Apr 2025 14:18:14 +0200</pubDate>
-      <guid>http://localhost:38719/courses_library/rl/</guid>
-      <description>&lt;h1 id=&#34;rl-courses-and-books&#34;&gt;RL courses and books&lt;/h1&gt;
-&lt;h2 id=&#34;reinforcement-learning-an-introduction-sutton-barto&#34;&gt;Reinforcement Learning: An Introduction (Sutton, Barto)&lt;/h2&gt;
-&lt;p&gt;Nearly everybody in RL recommends it. Looks like a book with a well-balanced&lt;br&gt;
-depth and readability. Has exercises.&lt;br&gt;
-&lt;a href=&#34;http://www.incompleteideas.net/book/the-book-2nd.html&#34;&gt;Book link&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions&#34;&gt;Github with solutions&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;bertsekas-course-and-books&#34;&gt;Bertsekas course and books&lt;/h2&gt;
-&lt;p&gt;Books may not be in free access. Some of them are dedicated to optimal control&lt;br&gt;
-and dynamic programming, which are, strictly speaking, not RL, but close enough.&lt;br&gt;
-&lt;a href=&#34;http://web.mit.edu/dimitrib/www/RLbook.html&#34;&gt;Course link&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;yandex-practical-rl&#34;&gt;Yandex practical RL&lt;/h2&gt;
-&lt;p&gt;Yandex Data Analysis School course, with lectures and assignments on GitHub.&lt;br&gt;
-Decent theoretical explanation with the assignments focused on practical needs.&lt;br&gt;
-&lt;a href=&#34;https://github.com/yandexdataschool/Practical_RL/&#34;&gt;Course GitHub link&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vandedok.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:38719/about/</link>
+      <link>https://vandedok.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:38719/about/</guid>
+      <guid>https://vandedok.github.io/about/</guid>
       <description>&lt;h2 id=&#34;hi-wave&#34;&gt;Hi &amp;#x1f44b;!&lt;/h2&gt;
 &lt;p&gt;My name is Anton, welcome to my website.&lt;/p&gt;
 &lt;p&gt;I am an AI researcher, software developer and a science geek. When I am not busy with any of those, I am traveling, dancing (mostly swing), hiking or sailing.&lt;/p&gt;
-&lt;p&gt;If you are interested in my career path, feel free to take a look at my CV. Some random thoughts of mine can be found in my &lt;a href=&#34;http://localhost:38719/blog/&#34;&gt;blog&lt;/a&gt;. I also have a &lt;a href=&#34;http://localhost:38719/courses_library/&#34;&gt;library&lt;/a&gt; for the different courses, blogs and other resources which I like to keep track on.&lt;/p&gt;</description>
+&lt;p&gt;If you are interested in my career path, feel free to take a look at my CV. Some random thoughts of mine can be found in my &lt;a href=&#34;https://vandedok.github.io/blog/&#34;&gt;blog&lt;/a&gt;. I also have a &lt;a href=&#34;https://vandedok.github.io/courses_library/&#34;&gt;library&lt;/a&gt; for the different courses, blogs and other resources which I like to keep track on.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

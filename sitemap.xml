@@ -2,25 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:38719/</loc>
+    <loc>https://vandedok.github.io/</loc>
     <lastmod>2025-04-26T14:18:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:38719/blog/</loc>
+    <loc>https://vandedok.github.io/blog/</loc>
     <lastmod>2025-04-26T14:18:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:38719/courses_library/</loc>
+    <loc>https://vandedok.github.io/courses_library/</loc>
     <lastmod>2025-04-26T14:18:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:38719/blog/my-first-post/</loc>
-    <lastmod>2025-04-26T14:18:14+02:00</lastmod>
+    <loc>https://vandedok.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:38719/courses_library/rl/</loc>
-    <lastmod>2025-04-26T14:18:14+02:00</lastmod>
+    <loc>https://vandedok.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:38719/about/</loc>
-  </url><url>
-    <loc>http://localhost:38719/categories/</loc>
-  </url><url>
-    <loc>http://localhost:38719/tags/</loc>
+    <loc>https://vandedok.github.io/tags/</loc>
   </url>
 </urlset>
